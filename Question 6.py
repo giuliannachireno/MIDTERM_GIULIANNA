@@ -3,7 +3,7 @@ print("Original list:", LIST)
 LIST[2] = 99
 print("Modified list:", LIST)
 
-STRING = "Giulianna"
+STRING = "giulianna"
 print("Original string:", STRING)
 
 try:
